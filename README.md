@@ -1,2 +1,2 @@
 # Fullstack
-Curso Full-Stack |Rocketseat
+Curso Full-Stack Rocketseat
