@@ -1,4 +1,3 @@
-Aqui está uma lista dos principais comandos do Git e suas explicações:
 Comandos básicos
 - git init – Inicializa um novo repositório Git.
 - git clone <URL> – Clona um repositório remoto para o seu computador.
@@ -19,4 +18,3 @@ Desfazendo alterações
 - git reset --soft <commit> – Reverte um commit, mantendo as alterações.
 - git reset --hard <commit> – Reverte um commit e descarta as alterações.
 - git revert <commit> – Cria um novo commit que desfaz as alterações do commit especificado.
-Se quiser mais detalhes, confira este guia completo sobre comandos do Git! 🚀
