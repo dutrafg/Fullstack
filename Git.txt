@@ -1,14 +1,22 @@
-// inicia o git
-git init
-// verefica alterações
-git status
-// add arquivos modificados
-git add .
-// cria e decreve um commit
-git commit -m "mensagem"
-// histórico
-git log
-//remover arquivos 
-git rm --cached "nome do arquivo" sem às " "
-// restaura a versão anterior
-git restore "nome do arquivo"
+Aqui está uma lista dos principais comandos do Git e suas explicações:
+Comandos básicos
+- git init – Inicializa um novo repositório Git.
+- git clone <URL> – Clona um repositório remoto para o seu computador.
+- git status – Exibe o status dos arquivos no repositório.
+Gerenciamento de alterações
+- git add <arquivo> – Adiciona um arquivo à área de preparação.
+- git add . – Adiciona todos os arquivos modificados à área de preparação.
+- git commit -m "mensagem" – Salva as alterações no repositório local com uma mensagem descritiva.
+Trabalhando com repositórios remotos
+- git remote add origin <URL> – Adiciona um repositório remoto.
+- git push origin <branch> – Envia as alterações para o repositório remoto.
+- git pull origin <branch> – Baixa as alterações do repositório remoto.
+Gerenciamento de branches
+- git branch – Lista todas as branches no repositório.
+- git checkout -b <nome> – Cria e muda para uma nova branch.
+- git merge <branch> – Mescla uma branch ao branch atual.
+Desfazendo alterações
+- git reset --soft <commit> – Reverte um commit, mantendo as alterações.
+- git reset --hard <commit> – Reverte um commit e descarta as alterações.
+- git revert <commit> – Cria um novo commit que desfaz as alterações do commit especificado.
+Se quiser mais detalhes, confira este guia completo sobre comandos do Git! 🚀
