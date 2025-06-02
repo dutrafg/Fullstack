@@ -1,0 +1,41 @@
+O HTML usa diversas tags para estruturar páginas da web. Aqui estão algumas das principais:
+- <html>: Define o início do documento HTML.
+- <head>: Contém informações como título e metadados.
+- <title>: Define o título da página exibido na aba do navegador.
+- <body>: Envolve todo o conteúdo visível da página.
+- <h1> a <h6>: Cabeçalhos de diferentes níveis de importância.
+- <p>: Define parágrafos de texto.
+- <a>: Cria links para outras páginas.
+- <img>: Insere imagens.
+- <ul>, <ol> e <li>: Criam listas não ordenadas, ordenadas e itens de lista.
+- <table>, <tr>, <td>: Estruturam tabelas.
+- <div> e <span>: Agrupam e estilizam elementos.
+- <form>, <input>, <button>: Criam formulários para interação do usuário.
+- <meta>: Define metadados da página, como codificação de caracteres e informações para SEO.
+- <link>: Relaciona a página a arquivos externos, como folhas de estilo CSS.
+- <script>: Insere scripts JavaScript na página.
+- <section>: Define seções de conteúdo.
+- <article>: Representa um conteúdo independente e autossuficiente.
+- <aside>: Contém informações secundárias, como barras laterais.
+- <header> e <footer>: Estruturam o cabeçalho e o rodapé da página.
+- <main>: Indica o conteúdo principal da página.
+- <figure> e <figcaption>: Agrupam imagens e legendas.
+- <nav>: Contém links de navegação.
+- <progress> e <meter>: Representam barras de progresso e medidores.
+- <details> e <summary>: Criam seções que podem ser expandidas ou recolhidas.
+- <canvas>: Permite desenhar gráficos e animações via JavaScript.
+- <audio> e <video>: Incorporam arquivos multimídia.
+- <mark>: Destaca trechos de texto com uma marcação amarela.
+- <code>: Exibe trechos de código com formatação monoespaçada.
+- <kbd>: Indica entradas do teclado, como atalhos de teclas.
+- <sup> e <sub>: Criam texto sobrescrito e subscrito.
+- <time>: Representa datas e horários de forma semântica.
+- <bdi>: Permite isolar texto para que ele não seja afetado pela direção do idioma.
+- <ruby>, <rt>, <rp>: Usados para anotações fonéticas, comuns em idiomas como japonês.
+- <wbr>: Define possíveis pontos de quebra de linha no texto.
+- <template>: Armazena conteúdo HTML para ser inserido posteriormente via JavaScript.
+- <dialog>: Cria caixas de diálogo interativas.
+- <summary> e <details>: Permitem criar seções expansíveis.
+- <output>: Exibe resultados de cálculos ou interações de formulários.
+
+
