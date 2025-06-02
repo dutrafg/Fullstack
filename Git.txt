@@ -1,0 +1,14 @@
+// inicia o git
+git init
+// verefica alterações
+git status
+// add arquivos modificados
+git add .
+// cria e decreve um commit
+git commit -m "mensagem"
+// histórico
+git log
+//remover arquivos 
+git rm --cached "nome do arquivo" sem às " "
+// restaura a versão anterior
+git restore "nome do arquivo"
